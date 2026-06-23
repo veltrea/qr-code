@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Xcode build output
+plugin/build/
+*.xcuserdatad/
+xcuserdata/
+
+# Third-party build output (Phase 2)
+third_party/zxing-build/
+
+# Agents relay
+.agents-relay/
+
